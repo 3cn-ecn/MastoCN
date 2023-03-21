@@ -2,6 +2,12 @@
 
 Repository pour un projet de déploiement d'une instance Mastodon à Centrale Nantes.
 
+## Pourquoi Mastodon ?
+
+Mastodon se pose comme un concurrent direct à Twitter, se concentrant sur des messages courts et brefs. Il repose sur le protocole *ActivityPub*, lui permettant de communiquer avec d'autres logiciels du Fediverse, tels que *PixelFed* ou *PeerTube* par exemple. L'avantage de Mastodon est qu'il est totalement libre, aussi il est possible d'héberger soi-même sa propre instance Mastodon sur un serveur pour rester maître de ses données et indépendant des GAFAM.
+
+L'avantage de Mastodon contrairement à d'autres logiciels libres concurrents est qu'il est plutôt stable, et propose une expérience de qualité égale voire supérieure aux réseaux sociaux privés traditionnels. Pour vous faire une idée, vous pouvez consulter l'instance la plus utilisée actuellement en France (à la date du 21/03/2023) : https://piaille.fr/.
+
 ## Quelle utilité ?
 
 Mastodon permettrait de diminuer notre dépendance à Facebook dans les échanges numériques de la vie étudiante de l'école. En pratique, il s'intègre dans un plan plus global de transition vers des outils plus respectueux de la vie privée et plus sûrs :
@@ -9,12 +15,12 @@ Mastodon permettrait de diminuer notre dépendance à Facebook dans les échange
 | Besoin | Outil actuel | Proposition de remplacement |
 | --- | --- | --- |
 | Organisation d'évènements | Facebook (Meta) | [Nantral Platform](https://nantral-platform.fr/) |
-| Posts d'actus (annonce d'un évènement, questions, partages...) | Facebook (Meta) | [Mastodon](https://piaille.fr/) |
-| Communication "officielle" sur l'actu de l'école | E-mail | [Mastodon](https://piaille.fr/) |
+| Posts d'actus (annonce d'un évènement, questions, partages...) | Facebook (Meta) | [Mastodon](https://joinmastodon.org/) |
+| Communication "officielle" sur l'actu de l'école | E-mail | [Mastodon](https://joinmastodon.org/) |
 | Messagerie instantanée | Messenger (Meta) / Whatsapp (Meta) | Pas encore défini. *Pistes : Signal / Télégram (meilleure vie privée), Zoom (outil officiel actuel de l'école). Pas de solution en auto-hébergement viable pour l'instant.* |
 | Rappels d'anniversaire | Facebook (Meta) | [Nantral Platform](https://nantral-platform.fr/) |
 | Comm au format "story", vidéos courtes | Instagram (Meta) | [PixelFed](https://github.com/pixelfed/pixelfed) |
-| Groupes facebook des clubs et assos (type groupe 6-trouilles) | Groupe Facebook (Meta) | [Mastodon](https://piaille.fr/) (abonnement à un compte) ou messagerie instantanée |
+| Groupes facebook des clubs et assos (type groupe 6-trouilles) | Groupe Facebook (Meta) | [Mastodon](https://joinmastodon.org/) (abonnement à un compte) ou messagerie instantanée |
 | Vidéos longues (CNT-CNC, captations de spectacles, trailers...) | YouTube (Alphabet) | [PeerTube](https://www.peertube.fr/) |
 | Espace de travail collaboratif | Google Drive (Alphabet) | [NextCloud](https://nextcloud.com/) (aka la "Box ECN") avec [Collabora](https://www.collaboraoffice.com/) ou [OnlyOffice](https://www.onlyoffice.com/fr/) |
 
