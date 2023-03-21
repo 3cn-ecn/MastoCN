@@ -20,7 +20,7 @@ Mastodon permettrait de diminuer notre dépendance à Facebook dans les échange
 | Messagerie instantanée | Messenger (Meta) / Whatsapp (Meta) | Pas encore défini. *Pistes : Signal / Télégram (meilleure vie privée), Zoom (outil officiel actuel de l'école). Pas de solution en auto-hébergement viable pour l'instant.* |
 | Rappels d'anniversaire | Facebook (Meta) | [Nantral Platform](https://nantral-platform.fr/) |
 | Comm au format "story", vidéos courtes | Instagram (Meta) | [PixelFed](https://github.com/pixelfed/pixelfed) |
-| Groupes facebook des clubs et assos (type groupe 6-trouilles) | Groupe Facebook (Meta) | [Mastodon](https://joinmastodon.org/) (abonnement à un compte) ou messagerie instantanée |
+| Groupes à thèmes (CAC Annonces, Nantral GAG, 6-trouilles...) | Facebook (Meta) | Dans le cas d'une communication mono-directionnelle (type un club diffusant des annonces à ses membres), un compte de club sur Mastodon auquel s'abonnent les membres suffit. Dans le cas de groupes créés pour séparer les types de posts (CAC Annonces par exemple), les hastags peuvent être utilisés. |
 | Vidéos longues (CNT-CNC, captations de spectacles, trailers...) | YouTube (Alphabet) | [PeerTube](https://www.peertube.fr/) |
 | Espace de travail collaboratif | Google Drive (Alphabet) | [NextCloud](https://nextcloud.com/) (aka la "Box ECN") avec [Collabora](https://www.collaboraoffice.com/) ou [OnlyOffice](https://www.onlyoffice.com/fr/) |
 
