@@ -8,14 +8,15 @@ Mastodon permettrait de diminuer notre dépendance à Facebook dans les échange
 
 | Besoin | Outil actuel | Proposition de remplacement |
 | --- | --- | --- |
-| Organisation d'évènements | Facebook | [Nantral Platform](https://nantral-platform.fr/) |
-| Posts d'actus (annonce d'un évènement, questions, partages...) | Facebook | [Mastodon](https://piaille.fr/) |
+| Organisation d'évènements | Facebook (Meta) | [Nantral Platform](https://nantral-platform.fr/) |
+| Posts d'actus (annonce d'un évènement, questions, partages...) | Facebook (Meta) | [Mastodon](https://piaille.fr/) |
 | Communication "officielle" sur l'actu de l'école | E-mail | [Mastodon](https://piaille.fr/) |
-| Messagerie instantanée | Messenger / Whatsapp | Pas encore défini. *Pistes : Signal / Télégram (+ sûrs), Zoom (outil officiel de l'école)* |
-| Rappels d'anniversaire | Facebook | [Nantral Platform](https://nantral-platform.fr/) |
-| Comm au format "story", vidéos courtes | Instagram | [PixelFed](https://github.com/pixelfed/pixelfed) |
-| Groupes facebook des clubs et assos (type groupe 6-trouilles) | Groupe Facebook | [Mastodon](https://piaille.fr/) (abonnement à un compte) ou messagerie instantanée |
-| Vidéos longues (CNT-CNC, captations de spectacles, trailers...) | YouTube | [PeerTube](https://www.peertube.fr/) |
+| Messagerie instantanée | Messenger (Meta) / Whatsapp (Meta) | Pas encore défini. *Pistes : Signal / Télégram (meilleure vie privée), Zoom (outil officiel actuel de l'école). Pas de solution en auto-hébergement viable pour l'instant.* |
+| Rappels d'anniversaire | Facebook (Meta) | [Nantral Platform](https://nantral-platform.fr/) |
+| Comm au format "story", vidéos courtes | Instagram (Meta) | [PixelFed](https://github.com/pixelfed/pixelfed) |
+| Groupes facebook des clubs et assos (type groupe 6-trouilles) | Groupe Facebook (Meta) | [Mastodon](https://piaille.fr/) (abonnement à un compte) ou messagerie instantanée |
+| Vidéos longues (CNT-CNC, captations de spectacles, trailers...) | YouTube (Alphabet) | [PeerTube](https://www.peertube.fr/) |
+| Espace de travail collaboratif | Google Drive (Alphabet) | [NextCloud](https://nextcloud.com/) (aka la "Box ECN") avec [Collabora](https://www.collaboraoffice.com/) ou [OnlyOffice](https://www.onlyoffice.com/fr/) |
 
 Bien évidemment, ces transitions peuvent être faites indépendamment les unes des autres, en fonction des motivations des clubs et assos. À noter cependant que pour qu'elles soient effectives, elles nécessitent une volonté forte des BDX en charge, qui seuls ont la capacité d'effectuer une transition d'un service vers un autre.
 
