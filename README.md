@@ -6,7 +6,7 @@ Repository pour un projet de déploiement d'une instance Mastodon à Centrale Na
 
 Mastodon se pose comme un concurrent direct à Twitter, se concentrant sur des messages courts et brefs. Il repose sur le protocole *ActivityPub*, lui permettant de communiquer avec d'autres logiciels du Fediverse, tels que *PixelFed* ou *PeerTube* par exemple. L'avantage de Mastodon est qu'il est totalement libre, aussi il est possible d'héberger soi-même sa propre instance Mastodon sur un serveur pour rester maître de ses données et indépendant des GAFAM.
 
-L'avantage de Mastodon contrairement à d'autres logiciels libres concurrents est qu'il est plutôt stable, et propose une expérience de qualité égale voire supérieure aux réseaux sociaux privés traditionnels. Pour vous faire une idée, vous pouvez consulter l'instance la plus utilisée actuellement en France (à la date du 21/03/2023) : https://piaille.fr/.
+L'avantage de Mastodon contrairement à d'autres logiciels libres concurrents est qu'il est plutôt stable, et propose une expérience de qualité égale voire supérieure aux réseaux sociaux privés traditionnels. Pour vous faire une idée, vous pouvez consulter l'instance la plus utilisée actuellement en France (à la date du 21/03/2023) : https://piaille.fr/. Des applications mobiles et bureau sont aussi disponibles pour tous les systèmes.
 
 ## Quelle utilité ?
 
