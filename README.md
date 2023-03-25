@@ -50,7 +50,7 @@ Bien évidemment, ces transitions peuvent être faites indépendamment les unes 
 
 Deux possibilités s'offrent à nous pour l'ouverture d'une instance Mastodon dans l'école :
 1. Une instance réservée aux étudiants : permet d'être plus libre dans les échanges, mais mets de côté le personnel, les enseignants-chercheurs et les doctorants de la vie de l'école.
-2. Une instance plus ouverte, incluant personnels et enseignants : liberté de ton des étudiants plus restreinte, mais permet d'éviter des situations problématiques. À noter que les services de messegerie instantanée peuvent suffire pour que les étudiants aient un espace réservé. Permet aussi à au service Communication, à la Direction, à CNA ou au service Vie Étudiante de communiquer plus facilement et directement aux étudiants.
+2. Une instance plus ouverte, incluant personnels et enseignants : liberté de ton des étudiants plus restreinte, mais permet d'éviter des situations problématiques. À noter que les services de messegerie instantanée peuvent suffire pour que les étudiants aient un espace réservé. Permet aussi à au service Communication, à la Direction, à CNA ou au service Vie Étudiante de communiquer plus facilement et directement aux étudiants. Permet aussi d'avoir une aide financière et technique de l'école plus facilement.
 
 ## Visibilité extérieure
 
