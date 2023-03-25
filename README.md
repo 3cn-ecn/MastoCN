@@ -28,7 +28,25 @@ Bien évidemment, ces transitions peuvent être faites indépendamment les unes 
 
 À noter aussi que chaque service alternatif proposé repose sur l'auto-hébergement, ce qui peut entraîner des coûts non-négligeables (pour le BDE ou l'école suivant l'organisation hébergeante).
 
-## Périmètre de l'instance Mastodon
+## Comparaison avec Facebook
+
+### Avantages
+
+* Pas de censure : la censure automatique de Facebook est devenue plus agressive récemment, notamment par le fait qu'un post fait par un club qui contient un lien vers un autre site est systématiquement supprimé
+* Plus simple à utiliser : Mastodon reprend le principe d'un compte basique et universel, peut importe que ce soit pour une personne ou un club, sur le modèle d'Instagram. Donc pas de pages avec des paramètres cachés à gérer ou de prises de tête pour les passations ou changement de nom.
+* Pas de pubs, pas de tracking inter-sites, pas de revente de données : toutes les données sont directement gérées localement
+* Formats plus court : les posts sont limités à un certain nombre de caractères (sur le modèle de Twitter), ce qui incite à faire des messages courts qui retiennent l'attention (et si besoin on peut toujours faire plusieurs posts qui s'enchaînent).
+* Ouvert : il est possible de s'abonner aux comptes d'autres sites supportant le protocole ActivityPub, comme PixelFed (équiv. Instagram) ou PeerTube (éq. YouTube) par exemple.
+
+### Inconvénients
+
+* Interface web moins jolie (mais interface mobile au même niveau voire mieux)
+* Financement de l'hébergement : non-gratuit
+* Pas de posts automatiques au changement de photos de profil (comme insta)
+* Pas de rappels automatique des anniversaires (mais pourra être implémenté sur Nantral Platform)
+* Pas de messagerie intégrée (Messenger pourra continuer à être utilisé dans un premier temps, puis remplacé par un autre service de messagerie)
+
+## Public cible et périmètre de l'instance Mastodon
 
 Deux possibilités s'offrent à nous pour l'ouverture d'une instance Mastodon dans l'école :
 1. Une instance réservée aux étudiants : permet d'être plus libre dans les échanges, mais mets de côté le personnel, les enseignants-chercheurs et les doctorants de la vie de l'école.
